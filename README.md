@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Ayushman Panigrahi. I am currently pursuing a Bachelor's degree in Computer Science and Engineering from KIIT University.
 <!--
 **alloy77/alloy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
